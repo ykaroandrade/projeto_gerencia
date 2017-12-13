@@ -2,7 +2,13 @@
 
 ## Projeto de software Klassic da empresa 2ST.
 
+## Professor 
 
+Alexandre L'erario
+
+## Aluno
+
+Ykaro Andrade
 
 
 ### Guideline
@@ -29,7 +35,7 @@ sudo apt-get install git
 ##### Clonar repositório do software Klassic
 Git Clone:
 ```sh
-git clone 
+git clone https://github.com/ykaroandrade/projeto_gerencia.git
 ```
 
 ##### Acesse o diretório clonado:
